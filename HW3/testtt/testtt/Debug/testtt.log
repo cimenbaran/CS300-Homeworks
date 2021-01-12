@@ -1,0 +1,10 @@
+﻿Build started 17/08/2020 10:55:37 PM.
+     1>Project "C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\testtt\testtt.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\Debug\testtt.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\Debug\testtt.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\Debug\testtt.lib" /MACHINE:X86 Debug\cimenbaran_cimen_baran_hw3.obj
+         testtt.vcxproj -> C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\Debug\testtt.exe
+     1>Done Building Project "C:\Users\Baran\Desktop\Code\CS300\HW3\testtt\testtt\testtt.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41
